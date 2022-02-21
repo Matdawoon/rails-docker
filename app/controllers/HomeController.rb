@@ -4,5 +4,3 @@ class HomeController < ApplicationController
     end
   
   end
-
-  @message = "Ceci est ma première application en Ruby On Rails"
